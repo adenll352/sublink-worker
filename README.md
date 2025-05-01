@@ -68,9 +68,10 @@ npm run deploy
 
 ## 📝 最近更新
 
-### 2025-04-27
+### 2025-04-30
 
-- 提升Hysteria2协议兼容性
+- 完全适配Sing-Box 1.11
+- 出于Github最近的限制，Balance规则集添加了`Github`
 
 ## 🔧 项目结构
 
